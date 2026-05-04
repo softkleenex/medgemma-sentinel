@@ -31,3 +31,4 @@ results/banner.html
 results/narration/*.txt
 !results/final/
 *.mp4
+kaggle.json

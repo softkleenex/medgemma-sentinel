@@ -80,3 +80,11 @@ medgemma-clinical-rag-pipeline/
 4. Run the end-to-end analysis via \`notebooks/clinical_rag_pipeline.ipynb\`.
 
 *(End of Project Retrospective)*
+
+<!-- BLOG-URL:START -->
+
+## Blog
+
+- Blog note: [🩺 MedGemma Clinical RAG Pipeline (Portfolio Edition: Post-Mortem & Retrospective)](https://softkleenex.github.io/coding_training/kaggle/kaggle-medgemma-clinical-rag-pipeline)
+
+<!-- BLOG-URL:END -->
